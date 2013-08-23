@@ -1,0 +1,6 @@
+c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\bin\Debug\Teste1.exe
+c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\bin\Debug\Teste1.pdb
+c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x86\Debug\Teste1.Properties.Resources.resources
+c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x86\Debug\Teste1.csproj.GenerateResource.Cache
+c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x86\Debug\Teste1.exe
+c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x86\Debug\Teste1.pdb
