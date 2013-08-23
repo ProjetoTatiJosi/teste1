@@ -4,3 +4,12 @@ c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x
 c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x86\Debug\Teste1.csproj.GenerateResource.Cache
 c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x86\Debug\Teste1.exe
 c:\users\tatiane pedro\documents\visual studio 2010\Projects\Teste1\Teste1\obj\x86\Debug\Teste1.pdb
+C:\Users\ifsp\Documents\Josi\teste1\obj\x86\Debug\Teste1.exe
+C:\Users\ifsp\Documents\Josi\teste1\obj\x86\Debug\Teste1.pdb
+C:\Users\ifsp\Documents\Josi\teste1\bin\Debug\Teste1.exe
+C:\Users\ifsp\Documents\Josi\teste1\bin\Debug\Teste1.pdb
+C:\Users\ifsp\Documents\Josi\teste1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Documents\Josi\teste1\obj\x86\Debug\Teste1.Form1.resources
+C:\Users\ifsp\Documents\Josi\teste1\obj\x86\Debug\Teste1.Properties.Resources.resources
+C:\Users\ifsp\Documents\Josi\teste1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Documents\Josi\teste1\obj\x86\Debug\GenerateResource.write.1.tlog
